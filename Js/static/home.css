@@ -1,0 +1,31 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+html, body {
+    height: 95%;
+    margin: 0;
+    padding: 0;
+  }
+  
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1a1a1a;
+    background-color: white;
+    
+  }
+  
+.semi_title {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 96px;
+    font-weight: bold;
+    color: transparent;
+    background: linear-gradient(45deg, #ff9a9e, #fad0c4, #a18cd1, #fbc2eb, #8ec5fc, #9be2fe, #67daff, #cbf3f0);
+    background-clip: text;
+    -webkit-background-clip: text;
+    animation: gradient-glow 5s ease-in-out infinite alternate;
+}
+  
