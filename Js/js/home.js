@@ -1,1 +1,1 @@
-alert('Dont learn Js')
+alert("Hello! I am an alert box!");

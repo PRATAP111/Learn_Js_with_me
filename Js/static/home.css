@@ -3,13 +3,13 @@
     padding: 0%;
     box-sizing: border-box;
 }
-html, body {
+html, body{
     height: 95%;
     margin: 0;
     padding: 0;
   }
   
-body {
+body{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -18,7 +18,7 @@ body {
     
   }
   
-.semi_title {
+.semi_title{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 96px;
     font-weight: bold;
@@ -28,4 +28,3 @@ body {
     -webkit-background-clip: text;
     animation: gradient-glow 5s ease-in-out infinite alternate;
 }
-  
